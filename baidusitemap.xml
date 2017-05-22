@@ -3,24 +3,65 @@
 
 
     
+    
   <url>
-    <loc>http://yoursite.com/blog/0/</loc>
-    <lastmod>2017-05-22T11:49:22.000Z</lastmod>
+    <loc>http://www.trendychimps.com/2/</loc>
+    <lastmod>2017-05-22T14:28:36.000Z</lastmod>
     <data>
         <display>
-        <title>测试一下Tableau的分析代码</title>
-        <pubTime>2017-05-22T11:45:49.000Z</pubTime>
+        <title>you should work hard</title>
+        <pubTime>2015-09-22T03:07:59.000Z</pubTime>
         
          
            
+             
+              <breadCrumb title="海关数据" url="http://www.trendychimps.com/categories/%E6%B5%B7%E5%85%B3%E6%95%B0%E6%8D%AE/"/>
+          
+             
+              <breadCrumb title="网站分析" url="http://www.trendychimps.com/categories/%E6%B5%B7%E5%85%B3%E6%95%B0%E6%8D%AE/%E7%BD%91%E7%AB%99%E5%88%86%E6%9E%90/"/>
+          
+             
+              <breadCrumb title="网站建设" url="http://www.trendychimps.com/categories/%E6%B5%B7%E5%85%B3%E6%95%B0%E6%8D%AE/%E7%BD%91%E7%AB%99%E5%88%86%E6%9E%90/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.trendychimps.com/16107/</loc>
+    <lastmod>2017-05-22T14:16:36.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-05-21T11:35:02.000Z</pubTime>
+        
+        <tag>海关数据</tag>
+         
+        <tag>数据分析</tag>
+         
+        <tag>可视化显示</tag>
+         
+         
+           
+             
+              <breadCrumb title="海关数据" url="http://www.trendychimps.com/categories/%E6%B5%B7%E5%85%B3%E6%95%B0%E6%8D%AE/"/>
+          
+             
+              <breadCrumb title="数据分析" url="http://www.trendychimps.com/categories/%E6%B5%B7%E5%85%B3%E6%95%B0%E6%8D%AE/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+          
+             
+              <breadCrumb title="测试数据" url="http://www.trendychimps.com/categories/%E6%B5%B7%E5%85%B3%E6%95%B0%E6%8D%AE/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE/"/>
+          
         </display>
     </data>
     </url>
 
     
     
+    
   <url>
-    <loc>http://yoursite.com/blog/0/</loc>
+    <loc>http://www.trendychimps.com/0/</loc>
     <lastmod>2017-05-22T04:39:45.000Z</lastmod>
     <data>
         <display>
@@ -35,22 +76,7 @@
 
     
   <url>
-    <loc>http://yoursite.com/blog/16107/</loc>
-    <lastmod>2017-05-22T04:38:22.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-05-21T11:35:02.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/blog/1/</loc>
+    <loc>http://www.trendychimps.com/1/</loc>
     <lastmod>2017-05-22T04:38:22.000Z</lastmod>
     <data>
         <display>
@@ -63,23 +89,5 @@
     </data>
     </url>
 
-    
-  <url>
-    <loc>http://yoursite.com/blog/2/</loc>
-    <lastmod>2017-05-22T04:38:22.000Z</lastmod>
-    <data>
-        <display>
-        <title></title>
-        <pubTime>2015-09-22T03:07:59.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
     
 </urlset>
